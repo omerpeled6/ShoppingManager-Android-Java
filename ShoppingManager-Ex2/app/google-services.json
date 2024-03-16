@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375586278559",
+    "project_id": "shoppingmanagerjava",
+    "storage_bucket": "shoppingmanagerjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375586278559:android:210baa782198f7194da6aa",
+        "android_client_info": {
+          "package_name": "com.example.fragmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVSNzE75Xcan3dxveXdpXK_QcINT7aB0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375586278559:android:0ad94c98e51745234da6aa",
+        "android_client_info": {
+          "package_name": "com.example.fragmentapp.Data"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVSNzE75Xcan3dxveXdpXK_QcINT7aB0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

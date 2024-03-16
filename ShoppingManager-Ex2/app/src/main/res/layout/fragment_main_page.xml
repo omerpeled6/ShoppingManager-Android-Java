@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/light_green"
+    tools:context=".Fragments.ProdcutManagerFragment">
+
+    <TextView
+        android:id="@+id/TextViewUsername"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center|center_vertical"
+        android:text="Hello Username"
+        android:textAllCaps="false"
+        android:textSize="34sp"
+        android:textStyle="bold|italic"
+        android:typeface="normal" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/res"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
